@@ -6,7 +6,8 @@ export default class AssetWoz extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>
-          Come out to the Rager of the year (fire emoji)
+          Come out and party with Woz at his dream rager! Bring your friends,
+          excitement, and get ready to rage!!
         </Text>
         <Image style={styles.logo} source={require("../assets/images/woz.jpg")}/>
       </View>

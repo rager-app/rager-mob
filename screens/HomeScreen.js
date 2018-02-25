@@ -48,11 +48,7 @@ export default class HomeScreen extends React.Component {
        </ScrollView>
     );
   }
-
-
-
 }
-
 
 const styles = StyleSheet.create({
   container: {
@@ -79,6 +75,4 @@ const styles = StyleSheet.create({
     margin: 10,
     marginTop: 50,
   },
-
-
 });

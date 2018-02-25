@@ -1,8 +1,8 @@
 {
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 51107,
+  "expoServerNgrokUrl": "https://p6-uyz.csvrcek.rager-mob.exp.direct",
+  "packagerNgrokUrl": "https://packager.p6-uyz.csvrcek.rager-mob.exp.direct",
+  "ngrokPid": 51118
 }
