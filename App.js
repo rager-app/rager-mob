@@ -15,7 +15,6 @@ export default class App extends React.Component {
 
   render() {
     if (!this.state.isLoadingComplete && !this.props.skipLoadingScreen) {
-      console.log('here')
       return (
         <View style={{flex: 1}}>
           <MainTabNavigator/>

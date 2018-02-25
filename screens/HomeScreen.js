@@ -34,7 +34,7 @@ export default class HomeScreen extends React.Component {
          </View>
 
          <View style={styles.container}>
-           <Card title="Cdids' Wet Party">
+           <Card title="Cdids' dank Party">
              <AssetConnor />
            </Card>
          </View>

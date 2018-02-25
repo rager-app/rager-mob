@@ -10,7 +10,7 @@
     "orientation": "portrait",
     "icon": "./assets/images/connor.png",
     "splash": {
-      "image": "./assets/images/startupicon.png",
+      "image": "./assets/images/travis.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
